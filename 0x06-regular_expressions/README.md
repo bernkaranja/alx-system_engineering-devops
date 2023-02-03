@@ -1,1 +1,2 @@
-# Solutions to tasks on Oniguruma library
+## Regular Expressions
+A directory on regular expressions in Ruby scripts.

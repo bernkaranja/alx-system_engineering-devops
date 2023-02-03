@@ -1,1 +1,2 @@
-# Solution to tasks on Networking basics #1
+## Networking Basics 2
+A repository on networking basics, continuation of 0x07

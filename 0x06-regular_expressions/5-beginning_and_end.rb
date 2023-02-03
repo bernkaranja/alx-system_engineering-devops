@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
-# A regular expression that is matches a string that starts with h ends with n and can have any single character in between
-puts ARGV[0].scan(/h.n/).join
+# Script to give the match result of h start and n end
+# with a single character between
+
+puts ARGV[0].scan(/^h.n$/).join
